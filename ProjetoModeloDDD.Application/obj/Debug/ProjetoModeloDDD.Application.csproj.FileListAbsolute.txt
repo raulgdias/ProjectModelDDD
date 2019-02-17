@@ -1,0 +1,6 @@
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Git\Study\ProjetoModeloDDD\ProjectModelDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
